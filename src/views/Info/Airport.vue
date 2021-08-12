@@ -144,6 +144,7 @@ export default {
         "red",
         "red",
         "red darken-4",
+				"purple",
       ],
       selectedScope: "country",
       scopeChoices: [

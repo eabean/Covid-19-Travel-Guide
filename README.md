@@ -25,12 +25,13 @@ where `<YOUR_LUMO_API_KEY>` is replaced with your API key recieved from the Lumo
 If you did not request a Maps Javascript API key, you may omit the second line.
 
 
-3. Once you have completed the above steps, you may run the project using this command:
+3. Once you have completed the above steps, you may run the project in the root directory using this command:
 ```
 npm run serve
 ```
 and should be able to open the app on `http://localhost:8080/`.
-### Lints and fixes files
+## Lints and fixes files
 ```
 npm run lint
 ```
+## Video Demo
