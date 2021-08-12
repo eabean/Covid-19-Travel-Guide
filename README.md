@@ -1,3 +1,4 @@
+
 # Covid-19 Travel Guide (Travel-19)
 
 This is a continuation of the [COVID-19 Travel Statistics (Travel-19)](https://devpost.com/software/covid-19-travel-statistics-travel-19 "COVID-19 Travel Statistics (Travel-19)") project from the TOHacks 2021 hackathon. 
@@ -35,3 +36,4 @@ and should be able to open the app on `http://localhost:8080/`.
 npm run lint
 ```
 ## Video Demo
+https://user-images.githubusercontent.com/34692466/129131052-94ce9acb-ead6-4c4f-93b5-66ed9a1bf50b.mp4
